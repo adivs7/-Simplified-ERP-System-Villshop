@@ -2,13 +2,16 @@
 
 ## What is the use of this Repo
 
-This Project is a Simple ReactJS Project which demonstrates the following
-
+This project is a simplifie interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently.
+The system will consist of the following pages:
+1. Dashboard - Provides an overview of the system's features.
+2. Products Management - Allows for the management of product listings.
+3. Orders Management - Facilitates viewing and handling orders.
+4. Orders Calendar View - A calendar interface displaying orders based on their expected delivery dates.
+   
 The project Template can be used to build bigger projects
 
 ## Live Application URL
-
-
 This URL has the application deployed in
 
 ## Prerequisites
