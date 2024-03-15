@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+/* .main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #212121;
+  color: whitesmoke;
+  flex-direction: column;
+  border: 2px solid black;
+}
+.create-form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px !important;
+} */
+/* .main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.create-form {
+  width: 300px; 
+}
+
+.create-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.create-form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+.create-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #0a0f0a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.create-form button:hover {
+  background-color: #45a049;
+} */
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* width: 60vh; */
+  background-color: #505250;
+  border: 2px solid rgb(240, 220, 220) ;
+  margin: auto;
+  box-shadow: 0 4px 8px rgba(226, 138, 138, 0.1);
+}
+
+.create-form {
+  width: 300px;
+  padding: 20px;
+  background-color: #fff;
+  border: 2px solid rgb(240, 220, 220) ;
+  border-radius: 8px;
+}
+
+.create-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.create-form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+.create-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #101110;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.create-form button:hover {
+  background-color: #505250;
+}
+.product-container {
+  font-size: 0.7 rem;
+  /* margin: 20px; */
+  border:  2px solid rgb(56, 55, 55) ;
+  
+
+}
+.btn
+{
+  display: block;
+  margin: auto;
+  color: white;
+  cursor: pointer;
+}
+.nav-con
+{
+  background-color: #505250;
+}
+/* Modal styles */

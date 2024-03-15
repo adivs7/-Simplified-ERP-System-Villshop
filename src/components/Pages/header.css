@@ -1,0 +1,23 @@
+.header-container {
+  background-image: url('https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_640.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  height: 91.2vh; 
+  border: 2px solid rgb(15, 14, 14); 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.box{
+  padding: 1.5rem;  
+  border: 2px solid black;
+  height: 10rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5rem;
+  background-color: rgb(166, 161, 72);
+  font-size: 3rem;
+  color: black;
+}
