@@ -33,22 +33,12 @@ npm install
 In order to run the application Type the following command
 
 ```bash
-npm start
+npm run start
 ```
 
 The Application Runs on **localhost:3000**
 
-## Application design
-
-#### Components
-
-1. **Customers** Component : This Component displays a list of customers. This Component gets the data from a json file in assets folder
-
-2. **CustomerDetails** Component : This Component Displays the details of the selected customer. This Component gets its data from a json file in assets folder as well. This Component is the Child Component of *Customers* Component
-
-#### HTTP client
-
-**axios** library is used to make HTTP Calls
+https://simplified-erp-system-villshop-eight.vercel.app/
 
 #### URL
 
